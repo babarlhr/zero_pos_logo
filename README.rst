@@ -5,7 +5,7 @@ Zero POS Logo
 Based on Point of Sale Logo v12 (by Zero Systems )
 ==============================================================
 This module helps you to set a logo for every point of sale. This will help you to
-identify the point of sale easily. You can also see this logo in pos screen and pos receipt.
+identify the point of sale easily. You can also see this logo in pos screen and pos receipt  with special logo  for each pos, header+footer,customer address+mobile.
 
 Installation
 ============
@@ -25,4 +25,4 @@ Developed by ©Zero Systems
 
 Point of Sale Logo v12:
 -----------------------
-Developer: Islam Mohamed 00201024439422 sales@erpzero.com
+Developer: Islam Mohamed +201024439422 sales@erpzero.com
